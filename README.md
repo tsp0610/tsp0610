@@ -13,7 +13,6 @@
 
 ## <div align="center">I'm Shashank (TSP LEGEND), mainly a Discord Bot Developer! Working since 2019 on Bots 🚀</div>  
 
-> I have quitted the tomato area and now work on a hobby project called ["TSP"](https://mivator.com)
 > My new Discord: https://discord.gg/muQgdBFFDn
 
 <a href="https://discord.com/users/1325825770844852327/"><img src="https://discord.c99.nl/widget/theme-3/1325825770844852327.png"></a> <a href="https://discord.gg/muQgdBFFDn"><img src="https://discord.com/api/guilds/1325826775602823221/widget.png?style=banner2"></a>
